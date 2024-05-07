@@ -11,9 +11,7 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
@@ -25,6 +23,20 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "plugins": [
+      [
+        "expo-font",
+        {
+          "fonts": [
+            "./src/assets/fonts/NunitoSans_7pt-Black.ttf",
+            "./src/assets/fonts/NunitoSans_7pt-Bold.ttf",
+            "./src/assets/fonts/NunitoSans_7pt-Medium.ttf",
+            "./src/assets/fonts/NunitoSans_7pt-Regular.ttf",
+            "./src/assets/fonts/NunitoSans_7pt-SemiBold.ttf"
+          ]
+        }
+      ]
+    ]
   }
 }
