@@ -18,8 +18,9 @@ export default function StartScreen() {
 					<Image
 						style={styles.image}
 						source={{
-							uri: "https://cdn.myanimelist.net/images/anime/1223/96541l.jpg",
+							uri: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic1.cbrimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2019%2F12%2FFullmetal-Alchemist.jpg&f=1&nofb=1&ipt=c9ef8e74a05958e1460146a256730aac21edd2505178e5603de636fcfd09bff0&ipo=images",
 						}}
+						resizeMode="cover"
 					/>
 				</View>
 				<View style={styles.body}>
@@ -60,6 +61,8 @@ const styles = StyleSheet.create({
 	},
 	image: {
 		...StyleSheet.absoluteFillObject,
+		objectFit: "cover",
+		resizeMode: "cover",
 	},
 	body: {
 		padding: 20,
