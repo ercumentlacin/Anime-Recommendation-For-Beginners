@@ -2,7 +2,7 @@ import { Link } from "@react-navigation/native";
 import { createNativeStackNavigator } from "@react-navigation/native-stack";
 import Text from "src/components/text";
 import { EerieBlack, Flame, FloralWhite } from "src/constants/colors";
-import ActionScreen from "src/screens/action-screen";
+import AnimeScreen from "src/screens/anime-screen";
 import HomeScreen from "src/screens/home-screen";
 import StartScreen from "src/screens/start-screen";
 import type { RootStackParamList } from "./types";
@@ -44,7 +44,7 @@ export default function RootRouter() {
 			/>
 			<Stack.Screen
 				name="AnimeCategory"
-				component={ActionScreen}
+				component={AnimeScreen}
 				options={{
 					headerShown: true,
 					headerRight: () => (
