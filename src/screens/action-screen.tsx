@@ -6,6 +6,18 @@ import Text from "src/components/text";
 import type { ScreenProps } from "src/router/types";
 import type { Anime } from "src/types";
 
+const categoryMap = {
+	action: "adventure",
+	adventure: "comedy",
+	comedy: "slice-of-life",
+	"slice-of-life": "fantasy",
+	fantasy: "science-fiction",
+	"science-fiction": "drama",
+	drama: "suspense",
+	suspense: "romance",
+	romance: "action",
+};
+
 export default function ActionScreen(
 	props: Readonly<ScreenProps<"AnimeCategory">>,
 ) {
@@ -29,24 +41,9 @@ export default function ActionScreen(
 		});
 	}, [props.route.params.category]);
 
-	let nextCategory = "action";
-	if (props.route.params.category === "action") {
-		nextCategory = "adventure";
-	} else if (props.route.params.category === "adventure") {
-		nextCategory = "comedy";
-	} else if (props.route.params.category === "comedy") {
-		nextCategory = "slice-of-life";
-	} else if (props.route.params.category === "slice-of-life") {
-		nextCategory = "fantasy";
-	} else if (props.route.params.category === "fantasy") {
-		nextCategory = "science-fiction";
-	} else if (props.route.params.category === "science-fiction") {
-		nextCategory = "drama";
-	} else if (props.route.params.category === "drama") {
-		nextCategory = "suspense";
-	} else if (props.route.params.category === "suspense") {
-		nextCategory = "romance";
-	}
+	const nextCategory =
+		categoryMap[props.route.params.category as keyof typeof categoryMap] ||
+		"action";
 
 	useEffect(() => {
 		props.navigation.setOptions({
