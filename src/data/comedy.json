@@ -1,0 +1,35 @@
+{
+  "id": 3,
+  "genre": "Comedy",
+  "header": {
+    "title": "One Punch Man",
+    "description": "Saitama is a hero who can defeat any opponent with a single punch, but he struggles with the mundanity of his everyday life.",
+    "imgUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.SydWR1kWrIzdq1ckDyrtZwAAAA%26pid%3DApi&f=1&ipt=6b96fad3c206b3f20fe3a413c8c721e806fed6134083faab23805777cbc45880&ipo=images"
+  },
+  "list": [
+    {
+      "genres": ["Comedy"],
+      "title": "Wagnaria!!",
+      "imgUrl": "https://cdn.myanimelist.net/images/anime/10/75262.jpg",
+      "description": "Sota Takanashi starts working at a family restaurant and meets a group of eccentric coworkers."
+    },
+    {
+      "genres": ["Comedy"],
+      "title": "Nichijou",
+      "imgUrl": "https://cdn.myanimelist.net/images/anime/3/75617.jpg",
+      "description": "A group of high school students navigate the absurdities of everyday life."
+    },
+    {
+      "genres": ["Adventure", "Comedy", "Fantasy"],
+      "title": "KonaSuba",
+      "imgUrl": "https://cdn.myanimelist.net/images/anime/1895/142748.jpg",
+      "description": "Kazuma Sato is reincarnated in a fantasy world and forms a party with a goddess, a mage, and a crusader."
+    },
+    {
+      "genres": ["Action", "Avant Garde", "Comedy", "Sci-Fi", "Suspense"],
+      "title": "FLCL",
+      "imgUrl": "https://cdn.myanimelist.net/images/anime/7/77356.jpg",
+      "description": "The craziest six episodes of your life."
+    }
+  ]
+}

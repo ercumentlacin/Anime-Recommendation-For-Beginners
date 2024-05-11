@@ -1,0 +1,35 @@
+{
+  "id": 9,
+  "genre": "Romance",
+  "header": {
+    "title": "Toradora!",
+    "description": "Two high school students help each other win over their crushes.",
+    "imgUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.suwalls.com%2Fwallpapers%2Fanime%2Ftoradora-33952-1920x1200.jpg&f=1&nofb=1&ipt=352f6b8a597b1ea80b336ba23e5ce33eec69b6f5d901f31ef7f6cee80527fed7&ipo=images"
+  },
+  "list": [
+    {
+      "genres": ["Comedy"],
+      "title": "Kaguuya-sama",
+      "imgUrl": "https://cdn.myanimelist.net/images/anime/1295/106551.jpg",
+      "description": "Two high school students try to make the other confess their love first."
+    },
+    {
+      "genres": ["Drama", "Romance", "Supernatural"],
+      "title": "Fruits Basket",
+      "imgUrl": "https://cdn.myanimelist.net/images/anime/4/75204.jpg",
+      "description": "Tohru Honda lives with a family cursed to turn into animals of the zodiac."
+    },
+    {
+      "genres": ["Drama", "Romance"],
+      "title": "Nana",
+      "imgUrl": "https://cdn.myanimelist.net/images/anime/2/11232.jpg",
+      "description": "A mature drama series of two women with the same name."
+    },
+    {
+      "genres": ["Action", "Comedy", "Fantasy", "Romance", "Ecchi"],
+      "title": "High School DxD",
+      "imgUrl": "https://cdn.myanimelist.net/images/anime/1331/111940.jpg",
+      "description": "A perverted high school student is killed by a fallen angel and is revived as a demon."
+    }
+  ]
+}

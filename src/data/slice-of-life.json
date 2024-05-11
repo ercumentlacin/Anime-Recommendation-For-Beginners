@@ -1,0 +1,35 @@
+{
+  "id": 4,
+  "genre": "Slice of Life",
+  "header": {
+    "title": "Spy x Family",
+    "description": "A spy, an assassin, and a telepath form a fake family to complete their missions.",
+    "imgUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fotakuusamagazine.com%2Fwp-content%2Fuploads%2F2020%2F08%2Fspy-x-family-sales-header.jpg&f=1&nofb=1&ipt=3d29aa2bd285fc214616b4fefbf189eef3fe099b70a0018facfaa899b6f167cc&ipo=images"
+  },
+  "list": [
+    {
+      "genres": ["Adventure", "Supernatural"],
+      "title": "My Neighbor Totoro",
+      "imgUrl": "https://cdn.myanimelist.net/images/anime/4/75923.jpg",
+      "description": "Two sisters move to the countryside and befriend a forest spirit."
+    },
+    {
+      "genres": ["Comedy"],
+      "title": "Bocchi the Rock!",
+      "imgUrl": "https://cdn.myanimelist.net/images/anime/1448/127956.jpg",
+      "description": "Socially awkward Bocchi tries to make friends in middle school."
+    },
+    {
+      "genres": ["Adventure", "Comedy", "Fantasy", "Drama", "Romance"],
+      "title": "Cardcaptor Sakura",
+      "imgUrl": "https://cdn.myanimelist.net/images/anime/8/60781.jpg",
+      "description": "Sakura must capture the Clow Cards to save the world."
+    },
+    {
+      "genres": ["Comedy", "Sci-Fi", "Mystery"],
+      "title": "The Melancholy of Haruhi Suzumiya",
+      "imgUrl": "https://cdn.myanimelist.net/images/anime/8/75377.jpg",
+      "description": "Haruhi forms a club to investigate the supernatural."
+    }
+  ]
+}

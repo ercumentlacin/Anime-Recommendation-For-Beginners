@@ -1,0 +1,35 @@
+{
+  "id": 2,
+  "genre": "Adventure",
+  "header": {
+    "title": "Cowboy Bebop",
+    "description": "Spike Spiegel and Jet Black are bounty hunters who travel through space in their ship, the Bebop. They are joined by Faye Valentine, Edward Wong, and Ein as they take on various missions.",
+    "imgUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.denofgeek.com%2Fwp-content%2Fuploads%2F2019%2F01%2Fhulu-anime-cowboy-bebop.jpg&f=1&nofb=1&ipt=a208d3779b9f7821aa5a6e43263e40d62c6b0957fe1b0f669d805c041bbb566f&ipo=images"
+  },
+  "list": [
+    {
+      "genres": ["Adventure", "Comedy", "Drama"],
+      "title": "Samurai Champloo",
+      "imgUrl": "https://cdn.myanimelist.net/images/anime/1375/121599.jpg",
+      "description": "Fusing hip-hop and samurai culture, Samurai Champloo follows Mugen, Jin, and Fuu as they search for the samurai who smells of sunflowers."
+    },
+    {
+      "genres": ["Adventure", "Comedy", "Drama"],
+      "title": "A Place Further Than the Universe",
+      "imgUrl": "https://cdn.myanimelist.net/images/anime/6/89879.jpg",
+      "description": "Four girls embark on a journey to Antarctica to fulfill their dreams and discover themselves."
+    },
+    {
+      "genres": ["Adventure", "Fantasy", "Romance"],
+      "title": "Spice and Wolf",
+      "imgUrl": "https://cdn.myanimelist.net/images/anime/5/59401.jpg",
+      "description": "Kraft Lawrence, a traveling merchant, meets the wolf deity Holo and they embark on a journey together."
+    },
+    {
+      "genres": ["Adventure", "Fantasy", "Drama", "Mystery", "Sci-Fi"],
+      "title": "Made in Abyss",
+      "imgUrl": "https://cdn.myanimelist.net/images/anime/6/86733.jpg",
+      "description": "Riko and Reg explore the mysterious Abyss, a massive chasm filled with strange creatures and relics."
+    }
+  ]
+}

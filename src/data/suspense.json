@@ -1,0 +1,35 @@
+{
+  "id": 8,
+  "genre": "Suspense",
+  "header": {
+    "title": "Death Note",
+    "description": "Light Yagami finds a notebook that kills anyone whose name is written in it.",
+    "imgUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.epicdope.com%2Fwp-content%2Fuploads%2F2020%2F04%2FDeath-Note-1-1.jpg&f=1&nofb=1&ipt=45847b90e64bf08243b2962e76b48ea0baffd64ec21008bc372f8f2ef13af391&ipo=images"
+  },
+  "list": [
+    {
+      "genres": ["Action", "Mystery", "Supernatural"],
+      "title": "Baccano!",
+      "imgUrl": "https://cdn.myanimelist.net/images/anime/3/14547.jpg",
+      "description": "A group of immortals in the 1930s fight for control of a powerful elixir."
+    },
+    {
+      "genres": ["Drama", "Horror", "Supernatural"],
+      "title": "Hellsing Ultimate",
+      "imgUrl": "https://cdn.myanimelist.net/images/anime/6/7333.jpg",
+      "description": "The Hellsing Organization fights against supernatural threats."
+    },
+    {
+      "genres": ["Horror", "Mystery", "Supernatural", "Suspense"],
+      "title": "Higurashi",
+      "imgUrl": "https://cdn.myanimelist.net/images/anime/12/19634.jpg",
+      "description": "A group of friends in a small town are caught in a time loop."
+    },
+    {
+      "genres": ["Drama", "Mystery", "Suspense"],
+      "title": "Monster",
+      "imgUrl": "https://cdn.myanimelist.net/images/anime/10/18793.jpg",
+      "description": "A doctor hunts down a former patient who has become a serial killer."
+    }
+  ]
+}

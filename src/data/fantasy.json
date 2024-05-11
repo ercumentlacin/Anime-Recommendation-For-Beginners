@@ -1,0 +1,35 @@
+{
+  "id": 5,
+  "genre": "Fantasy",
+  "header": {
+    "title": "Attack on Titan",
+    "description": "Humans are on the brink of extinction due to giant humanoid creatures.",
+    "imgUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.GWCvQVnQzq-mR9xv9cH53wHaEK%26pid%3DApi&f=1&ipt=250ea1f81937ffd04fa42e7f1619f48eb6e508871c5f9cd8b764127876ae1f98&ipo=images"
+  },
+  "list": [
+    {
+      "genres": ["Adventure", "Comedy", "Fantasy"],
+      "title": "Little Witch Academia",
+      "imgUrl": "https://cdn.myanimelist.net/images/anime/13/83934.jpg",
+      "description": "Akko attends a school for witches to become like her idol, Shiny Chariot."
+    },
+    {
+      "genres": ["Action", "Adventure", "Fantasy"],
+      "title": "Log Horizon",
+      "imgUrl": "https://cdn.myanimelist.net/images/anime/5/84004.jpg",
+      "description": "Players are trapped in a MMORPG and must find a way out."
+    },
+    {
+      "genres": ["Action", "Adventure", "Fantasy", "Romance"],
+      "title": "Yona of the Dawn",
+      "imgUrl": "https://cdn.myanimelist.net/images/anime/9/64225.jpg",
+      "description": "Yona seeks to reclaim her kingdom with the help of four dragons."
+    },
+    {
+      "genres": ["Drama", "Fantasy", "Suspense"],
+      "title": "Re:Zero",
+      "imgUrl": "https://cdn.myanimelist.net/images/anime/1522/128039.jpg",
+      "description": "Subaru is transported to a fantasy world and must save his friends."
+    }
+  ]
+}

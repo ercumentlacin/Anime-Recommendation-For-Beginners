@@ -1,0 +1,35 @@
+{
+  "id": 7,
+  "genre": "Drama",
+  "header": {
+    "title": "Your Name",
+    "description": "Two teenagers find themselves swapping bodies and must find a way to meet each other.",
+    "imgUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwi.wallpapertip.com%2Fwsimgs%2F0-7670_kimi-no-na-wa-wallpaper-your-name-wallpaper.jpg&f=1&nofb=1&ipt=91f839e55d40a7968c7e3e9a7fe47d3c130d90ca993a72626e0a29e1d650947a&ipo=images"
+  },
+  "list": [
+    {
+      "genres": ["Drama", "Supernatural"],
+      "title": "Anohana",
+      "imgUrl": "https://cdn.myanimelist.net/images/anime/5/79697.jpg",
+      "description": "Five teenagers reunite to help their friend Menma pass on to the afterlife."
+    },
+    {
+      "genres": ["Drama", "Supernatural", "Suspense"],
+      "title": "Death Parade",
+      "imgUrl": "https://cdn.myanimelist.net/images/anime/5/71553.jpg",
+      "description": "Decim judges the dead in a bar where they must play games to determine their fate."
+    },
+    {
+      "genres": ["Action", "Adventure", "Drama"],
+      "title": "Vinland Saga",
+      "imgUrl": "https://cdn.myanimelist.net/images/anime/1500/103005.jpg",
+      "description": "Thorfinn seeks revenge against Askeladd for his father's death."
+    },
+    {
+      "genres": ["Drama", "Sports"],
+      "title": "Chihayafuru",
+      "imgUrl": "https://cdn.myanimelist.net/images/anime/3/35749.jpg",
+      "description": "Chihaya Ayase aspires to become the best karuta player in Japan."
+    }
+  ]
+}

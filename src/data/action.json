@@ -1,0 +1,35 @@
+{
+  "id": 1,
+  "genre": "Action",
+  "header": {
+    "title": "Jujutsu Kaisen",
+    "description": "Yuji Itadori is a high school student who becomes a host for a powerful curse. He joins a school of sorcerers to learn how to control his new powers.",
+    "imgUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage7.uhdpaper.com%2Fwallpaper-hd%2Fjujutsu-kaisen-sukuna-uhdpaper.com-hd-7.3063.jpg&f=1&nofb=1&ipt=637bc130b107fefbb55404e74c26c2bbed67efe987b6cfe9654ff4a267cdeba6&ipo=images"
+  },
+  "list": [
+    {
+      "genres": ["Sports"],
+      "title": "Haikyuu!!",
+      "imgUrl": "https://cdn.myanimelist.net/images/anime/7/76014.jpg",
+      "description": "Shoyo Hinata is determined to play volleyball despite being short. After seeing a player nicknamed the Little Giant, he trains to become a great player."
+    },
+    {
+      "genres": ["Action"],
+      "title": "Black Lagoon",
+      "imgUrl": "https://cdn.myanimelist.net/images/anime/1906/121592.jpg",
+      "description": "Rokurou Okajima is a businessman who is captured by a mercenary group. He decides to join them after seeing how corrupt his company is."
+    },
+    {
+      "genres": ["Action", "Fantasy"],
+      "title": "Yu Yu Hakusho",
+      "imgUrl": "https://cdn.myanimelist.net/images/anime/1228/111372.jpg",
+      "description": "Yusuke Urameshi is a delinquent who is killed while saving a child. He is given a chance to come back to life as a Spirit Detective."
+    },
+    {
+      "genres": ["Action", "Adventure", "Supernatural"],
+      "title": "JoJo's Bizarre Adventure",
+      "imgUrl": "https://cdn.myanimelist.net/images/anime/3/40409.jpg",
+      "description": "Follow the Joestar family as they fight supernatural beings using their unique abilities."
+    }
+  ]
+}

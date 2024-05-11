@@ -1,0 +1,35 @@
+{
+  "id": 6,
+  "genre": "Science Fiction",
+  "header": {
+    "title": "Psycho-Pass",
+    "description": "In a dystopian future, the Sibyl System determines the mental state of citizens.",
+    "imgUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FcojOMQvTwcPTSUc0BnRZqfKU34y.jpg&f=1&nofb=1&ipt=11e1cc4e7242d6fe955b03b820879286b4a5bb138c9671844f7f8c6e45778f15&ipo=images"
+  },
+  "list": [
+    {
+      "genres": ["Drama", "Sci-Fi", "Suspense"],
+      "title": "Steins;Gate",
+      "imgUrl": "https://cdn.myanimelist.net/images/anime/1935/127974.jpg",
+      "description": "A group of friends discover time travel and must prevent a dystopian future."
+    },
+    {
+      "genres": ["Action", "Adventure", "Award Winning", "Sci-Fi"],
+      "title": "Gurren Lagann",
+      "imgUrl": "https://cdn.myanimelist.net/images/anime/4/5123.jpg",
+      "description": "Simon and Kamina fight against the Beastmen to save humanity."
+    },
+    {
+      "genres": ["Action", "Award Winning", "Mystery", "Sci-Fi", "Suspense"],
+      "title": "Ghost in the Shell",
+      "imgUrl": "https://cdn.myanimelist.net/images/anime/10/82594.jpg",
+      "description": "Major Motoko Kusanagi fights cybercrime in a futuristic Japan."
+    },
+    {
+      "genres": ["Action", "Award Winning", "Drama", "Romance", "Sci-Fi"],
+      "title": "Mobile Suit Gundam",
+      "imgUrl": "https://cdn.myanimelist.net/images/anime/1792/91081.jpg",
+      "description": "Amuro Ray pilots the RX-78-2 Gundam to fight against the Principality of Zeon."
+    }
+  ]
+}
