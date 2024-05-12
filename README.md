@@ -26,3 +26,7 @@ This is a simple anime recommendation system for beginners.
 
 - [MyAnimeList](https://myanimelist.net/)
 - [Data](https://www.reddit.com/r/anime/comments/1ckr4uf/anime_recommendation_chart_for_beginners)
+
+## Screenshots
+
+<img src="./screenshots/simulator_screenshot_534E5330-90DC-4BD2-B336-1C1003EE5E8B.png" width="200" alt="Screenshot">
