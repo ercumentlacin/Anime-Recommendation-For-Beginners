@@ -46,8 +46,9 @@ const styles = StyleSheet.create({
 		flex: 1,
 	},
 	innerContainer: {
-		padding: 20,
+		margin: 20,
 		backgroundColor: EerieBlack,
+		flex: 1,
 	},
 	button: {
 		backgroundColor: Flame,
